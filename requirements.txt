@@ -4,4 +4,3 @@ faker>=25.0
 numpy>=1.26
 matplotlib>=3.8
 plotly>=5.22
-pyspark>=3.5
